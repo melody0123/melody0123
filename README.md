@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melody0123
 - 👀 I’m interested in some fundamental fields in computer science such as operating system, networks and DBMS.
-- 🌱 I’m currently learning Windows kernel programming, networks programming and neural networks.
+- 🌱 I’m currently learning Windows kernel programming, networks programming, neural networks and Web Application programming.
 - 💞️ I’m looking to collaborate with people who have the same interests as mine and are dedicated to computer science.
 - 📫 Just feel free to leave message on Github to contact me.
 
