@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=melody0123.readme)
 - 👋 Hi, I’m @melody0123
 - 👀 I’m interested in some fundamental fields in computer science such as operating system, networks and DBMS.
 - 🌱 I’m currently learning Windows kernel programming, networks programming, neural networks and Web Application programming.
