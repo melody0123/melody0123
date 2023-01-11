@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with people who have the same interests as mine and are dedicated to computer science.
 - 📫 Just feel free to leave message on Github to contact me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melody0123)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melody0123&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 melody0123/melody0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
